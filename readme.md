@@ -17,7 +17,7 @@ Then you import it in your Studio or deploy the lib_PDF.CAR project directly in 
 ## API
 The project exposes 2 sequences
 
-- getFieldsNames (Lists all the fields fond in a PDF file)
+- getFieldsNames (Lists all the fields found in a PDF file)
 	- input => tplPDF : the full path to a PDF form file
 	- output => a list of all PDF form fields found in this PDF file
 - fillFORM (Fills a form in a PDF file )
